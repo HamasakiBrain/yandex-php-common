@@ -1,2 +1,2 @@
 Эта библиотека является вспомогательной для
-библиотек [yandex-market-php-oauth](https://github.com/yandex-market/yandex-market-php-oauth).
+библиотек [yandex-market-php-oauth](https://github.com/hamasakibrain/yandex-market-php-oauth).
