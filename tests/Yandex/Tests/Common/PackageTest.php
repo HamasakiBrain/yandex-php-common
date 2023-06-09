@@ -14,8 +14,6 @@ use Yandex\Tests\TestCase;
  * @category Yandex
  * @package  Tests
  *
- * @author   Anton Shevchuk
- * @created  07.08.13 11:52
  */
 class PackageTest extends TestCase
 {

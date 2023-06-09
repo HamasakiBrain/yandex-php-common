@@ -17,8 +17,6 @@ use Yandex\Common\AbstractPackage;
  * @property integer $foo
  * @property integer $fooBar
  *
- * @author   Anton Shevchuk
- * @created  07.08.13 11:48
  */
 class Fixtures extends AbstractPackage
 {
